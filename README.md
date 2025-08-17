@@ -115,7 +115,7 @@ Open and run the cells in `linear_regression_training_loops_me.ipynb`.
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License – see the `LICENSE` file for details.
 
 ---
 
